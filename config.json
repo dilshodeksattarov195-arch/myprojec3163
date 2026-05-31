@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsfave",
+        "uuid": 12566599,
+        "checksum": "kb29qk"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
